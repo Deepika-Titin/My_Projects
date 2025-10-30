@@ -1,0 +1,13 @@
+My Brand Structure :
+--------------------
+1. Prema Palagam – Milk Distribution
+   Goal: Build app + analyze data (customers, litres, payments)
+
+2. Tuition (unregistered)
+   Goal: Manage students, attendance, performance and fees via app
+
+3. Luckyra – Handmade Business
+   Goal: Sell handcrafted products and create brand identity
+
+4. Data Analytics – New Career Path
+   Goal: Build a portfolio and analytics projects to analyze my real businesses
