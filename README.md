@@ -1,4 +1,4 @@
-# 💫 MY_PROJECTS by Deepika Titin
+# 💫 MY_PROJECTS
 
 Welcome to my all-in-one learning and business repository!  
 Here I’m documenting my 90-day journey of learning **Data Analytics**, **App Creation**, **Business Growth**, and **Self-Improvement**.
@@ -55,5 +55,5 @@ Financial and personal Excel sheets:
 📁 Folder: `Excel_Analysis`
 
 
-🧠 *“Small steps lead to reach Himalayas”*  
-Made with ❤️ by **Deepika Titin**
+🧠 *“Small steps lead to Himalayas”*  
+Made with ❤️ & Passion by **Deepika Titin**
