@@ -16,3 +16,9 @@ Data-analysis/ecommerce_sentiment_analysis/data/Reviews.csv
 Data-analysis/sales_insights/data/
 Data-analysis/sales_insights/images/
 Data-analysis/sales_insights/reports/
+
+echo "Professional-projects/Data-analysis/ecommerce_sentiment_analysis/data/Reviews.csv" >> .gitignore
+git add .gitignore
+git commit -m "Ignore large CSV file to fix GitHub push limit"
+
+Professional-projects/Data-analysis/ecommerce_sentiment_analysis/data/Reviews.csv
