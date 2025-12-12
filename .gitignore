@@ -22,3 +22,41 @@ git add .gitignore
 git commit -m "Ignore large CSV file to fix GitHub push limit"
 
 Professional-projects/Data-analysis/ecommerce_sentiment_analysis/data/Reviews.csv
+
+
+# Ignore virtual environments
+venv/
+**/venv/
+
+# Ignore large datasets
+*.csv
+*.xlsx
+
+# Ignore Power BI files
+*.pbix
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+Data-analysis/ecommerce_sentiment_analysis/data/
+
+
+# Ignore heavy and personal files
+*.csv
+*.xlsx
+*.pdf
+*.pbix
+*.png
+*.jpg
+*.jpeg
+
+# Ignore local virtual environments
+venv/
+Data-analysis/**/venv/
+
+# Ignore entire personal project folders
+LuckyRa/
+Excel-analysis/
+
+# Ignore large dataset file that caused errors
+Professional-projects/Data-analysis/ecommerce_sentiment_analysis/data/Reviews.csv
