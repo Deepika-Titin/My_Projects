@@ -1,59 +1,103 @@
-# 💫 MY_PROJECTS
+Deepika Ravikumar-Education & Learning Analytics Portfolio
 
-Welcome to my all-in-one learning and business repository!  
-Here I’m documenting my 90-day journey of learning **Data Analytics**, **App Creation**, **Business Growth**, and **Self-Improvement**.
+Hi, I’m Deepika Ravikumar.
 
----
+I’m a Computer Science Engineer transitioning into Data Analytics with a focus on Education Systems and Learning Analytics.
 
-## 🎯 About Me
-👩‍💻 Engineer | 📊 Aspiring Data Analyst | 🎶 Creator | 💎 Entrepreneur  
-I’m building skills in **Data Analytics**, **German language**, and **app development**, while growing my own brands:
-- **Luckyra** – Handmade crafts & creative business ideas  
-- **Prema Paalagam** – Milk distribution and dairy products  
+I build practical, job-ready projects that combine data, education, and digital learning tools.
 
----
+🎓My Projects (Education Domain)
 
-## 📘 Projects Overview
+1️⃣ Student Performance & Attendance Analytics
 
-### 📊 Data Analytics
-- Daily Excel & Python practice projects  
-- Visualizations, dashboards, and reports  
-📁 Folder: `Data_Analytics`
+-Built structured models to analyze:
 
----
+-Attendance vs performance trends
 
-### 💻 Tuition App
-A simple app idea to manage:
-- Student details  
-- Attendance and payments  
-- Lesson tracking  
-📁 Folder: `Tuition_App`
+-Subject-wise score analysis
 
----
+-Monthly academic summaries
 
-### 🥛 Prema Paalagam
-Milk distribution tracking system with:
-- Customer and route management  
-- Daily order and payment sheet  
-📁 Folder: `Prema_Paalagam`
+-Identification of improvement patterns
 
----
+Tools: Excel / Python
+📁 Folder: Education_Analytics
 
-### 💎 Luckyra Brand
-Handmade & creative business projects:
-- Product design ideas  
-- Marketing content  
-- Brand planning sheets  
-📁 Folder: `Luckyra_Brand`
+2️⃣ Tuition Management Data System
 
----
+Designed a student database system including:
 
-### 📈 Excel Analysis
-Financial and personal Excel sheets:
-- Monthly budgets  
-- Expense trackers  
-📁 Folder: `Excel_Analysis`
+-Student record structure
 
+-Attendance tracking framework
 
-🧠 *“Small steps lead to Himalayas”*  
-Made with ❤️ & Passion by **Deepika Titin**
+-Payment monitoring dashboard
+
+-Lesson progress documentation
+
+Focus: Education workflow modeling & data organization
+
+📁 Folder: Tuition_App
+
+3️⃣ Learning Progress Tracking Model
+
+Developed a structured tracking framework to monitor:
+
+-Lesson completion rates
+
+-Skill progression metrics
+
+-Student engagement indicators
+
+-Data-based academic monitoring
+
+📁 Folder: Learning_Tracking_Model
+
+📊 Applied Education Systems
+Digital Learning Content (Canva & YouTube)
+
+-Concept visualization
+
+-Structured lesson frameworks
+
+-Student-friendly data representation
+
+-Learning engagement design
+
+Focus: Improving clarity and retention through structured delivery.
+
+📁 Folder: Education_Content
+
+🛠 Technical Skills
+
+-SQL (Data Queries & Filtering)
+
+-Excel (Dashboards, Pivot Tables, Reporting)
+
+-Python (Pandas, Data Cleaning, EDA)
+
+-Education Data Structuring
+
+-Performance Metric Design
+
+🌍 Additional Systems Built
+
+-Small business operational tracking (Prema Paalagam)
+
+-Cost and pricing analytics (Luckyra brand)
+
+-German learning progress tracking system
+
+🚀 Current Focus
+
+-Advanced SQL for analytics
+
+-Education-focused datasets (Kaggle practice & real dataset)
+
+-Dashboard refinement
+
+-Preparing for remote Education Data Analyst roles
+
+Deepika Ravikumar
+Education Data Analyst (Aspiring)
+Open to remote opportunities
